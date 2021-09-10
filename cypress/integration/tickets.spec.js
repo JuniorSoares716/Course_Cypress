@@ -78,7 +78,7 @@ describe("", () => {
   });
 
 
-  it.only('Usando a classe support', () => {
+  it('Usando a classe support', () => {
     // criando um json
     const customer = {
       firstName: "Junior",
